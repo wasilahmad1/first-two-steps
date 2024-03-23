@@ -3,4 +3,7 @@ making changes in first step and then  staging commiting and pushing the changes
 
 
 
-making another branch named bugfixing and then making changes in the bugfixing branch and staging commiting and pushing the changes made from local to remote reposority
+making another branch named bugfixing and then making changes in the bugfixing branch and staging commiting and pushing the changes made from local to remote reposority 
+
+
+making changes in the bugfixing branch to test git status command
