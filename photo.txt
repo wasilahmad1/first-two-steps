@@ -2,4 +2,9 @@ step1. creating a folder and file
 making changes in first step and then  staging commiting and pushing the changes from local to remote reposority
 
 
+<<<<<<< HEAD
 making changes in main and the updating the changes made on the main from local to remote reposority and the staging ,commiting and pushing and the changes 
+=======
+
+making branch named feature branch and making changes in feature-branch and then staging commiting and pushing
+>>>>>>> feature-branch
